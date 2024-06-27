@@ -1,0 +1,7 @@
+/* Add this CSS to style the card images */
+.img-fluid {
+    border-radius: 10px; /* Add border-radius for rounded corners */
+    
+    height:100px; /* Ensure the image stays within the card and doesn't overflow */
+  }
+  
