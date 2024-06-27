@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "teja12",
+            "group": "tej123",
+            "database": "${workspaceFolder:dbconnection}/goodreads.db"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "group",
+            "group": "group",
+            "database": "C:\\Users\\TEJA\\Desktop\\MUSIC BACK\\MUSIC.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
